@@ -1,0 +1,34 @@
+{
+    "mesas": [
+        {
+            "id": "1",
+            "capacidad": 4,
+            "estado": "ocupada"
+        },
+        {
+            "id": "2",
+            "capacidad": 2,
+            "estado": "disponible"
+        },
+        {
+            "id": "3",
+            "capacidad": 6,
+            "estado": "ocupada"
+        },
+        {
+            "id": "4",
+            "capacidad": 4,
+            "estado": "disponible"
+        },
+        {
+            "id": "5",
+            "capacidad": 5,
+            "estado": "ocupada"
+        },
+        {
+            "id": "6",
+            "capacidad": 4,
+            "estado": "disponible"
+        }
+    ]
+}

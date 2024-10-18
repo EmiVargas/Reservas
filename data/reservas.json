@@ -1,0 +1,74 @@
+{
+  "reservas": [
+    {
+      "id": "2",
+      "nombreCliente": "Maria Lopez",
+      "email": "maria@example.com",
+      "fecha": "2024-10-17",
+      "franjaHoraria": "13:30",
+      "personas": 2,
+      "mesa": 2,
+      "estado": "confirmada"
+    },
+    {
+      "id": "3",
+      "nombreCliente": "Carlos Garcia",
+      "email": "carlos@example.com",
+      "fecha": "2024-10-17",
+      "franjaHoraria": "20:00",
+      "personas": 6,
+      "mesa": 3,
+      "estado": "confirmada"
+    },
+    {
+      "id": "4",
+      "nombreCliente": "Ana Torres",
+      "email": "ana@example.com",
+      "fecha": "2024-10-17",
+      "franjaHoraria": "21:30",
+      "personas": 3,
+      "mesa": 4,
+      "estado": "cancelada"
+    },
+    {
+      "id": "5",
+      "nombreCliente": "Pedro Alvares",
+      "email": "pedro@example.com",
+      "fecha": "2024-10-18",
+      "franjaHoraria": "12:00",
+      "personas": 5,
+      "mesa": 5,
+      "estado": "confirmada"
+    },
+    {
+      "id": "6",
+      "nombreCliente": "Sofia Martinez",
+      "email": "sofia@example.com",
+      "fecha": "2024-10-18",
+      "franjaHoraria": "20:00",
+      "personas": 4,
+      "mesa": 6,
+      "estado": "confirmada"
+    },
+    {
+      "id": "7ebec61d-8c8a-422f-a449-238ca05b0b8f",
+      "nombreCliente": "Messi",
+      "email": "juan@example.com",
+      "fecha": "2024-10-17",
+      "franjaHoraria": "12:00",
+      "personas": 4,
+      "mesa": 1,
+      "estado": "confirmada"
+    },
+    {
+      "id": "fe6cfd0b-306e-4e0d-bbab-ee327d0ed1fd",
+      "nombreCliente": "Messi",
+      "email": "juan@example.com",
+      "fecha": "2024-10-17",
+      "franjaHoraria": "12:00",
+      "personas": 4,
+      "mesa": 1,
+      "estado": "confirmada"
+    }
+  ]
+}
